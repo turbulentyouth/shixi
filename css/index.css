@@ -95,20 +95,15 @@ a{
 }
 .banner .banner_c a{
     position: relative;
-    top: -15px;
-    left: 30px;
+    top: 10px;
+    left: 40px;
 }
-.banner .banner_c p input{
+.banner .banner_c input{
     position: relative;
-    top: -85px;
-    left: 200px;
+    top: -10px;
+    left: 40px;
     width: 450px;
     height: 40px;
-}
-.banner .banner_c p a{
-    position: relative;
-    left: 200px;
-    top: -70px;
 }
 .banner2{
     margin-top: 30px;
@@ -124,12 +119,134 @@ a{
 }
 .banner2_c ul li{
     float: left;
+    margin-right: 10px;
 }
-.banner2_cc{
+.banner2_cc img{
     float: left;
+    position: relative;
+    top:10px;
     margin-left: 8px;
 }
-.banner2_cc a:hover{
-    color: wheat;
+.banner2_cc a{
+    float: left;
+    background-color: bisque;
     display: block;
+}
+.banner2_cc a:hover{
+    color: white;
+    background-color: black;
+    display: block;
+}
+
+
+
+
+.text{
+    margin: 30px 100px auto;
+    border: 1px black solid;
+    height: 5000px;
+}
+
+
+
+
+.left{
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+    border: 1px black solid;
+    width: 700px;
+    height: 4800px;
+}
+.left01{
+    margin: 5px 5px;
+    border: 1px black solid;
+    height: 700px;
+}
+.left02{
+    margin: 5px 5px;
+    border: 1px black solid;
+    height: 100px;
+}
+.left03{
+    margin: 5px 5px;
+    border: 1px black solid;
+    height: 200px;
+}
+.left04{
+    margin: 5px 5px;
+    border: 1px black solid;
+    height: 1300px;
+}
+.left05{
+    margin: 5px 5px;
+    border: 1px black solid;
+    height: 700px;
+}
+.left06{
+    margin: 5px 5px;
+    border: 1px black solid;
+    height: 700px;
+}
+.left07{
+    margin: 5px 5px;
+    border: 1px black solid;
+    height: 700px;
+}
+
+
+
+
+
+
+.right{
+    float: right;
+    margin-right: 5px;
+    margin-top: 5px;
+    border: 1px black solid;
+    width: 330px;
+    height: 1500px;
+}
+.right01{
+    margin: 5px;
+    border: 1px black solid;
+    height: 200px;
+}
+.right02{
+    margin: 5px;
+    border: 1px black solid;
+    height: 200px;
+}
+.right03{
+    margin: 5px;
+    border: 1px black solid;
+    height: 200px;
+}
+.right04{
+    margin: 5px;
+    border: 1px black solid;
+    height: 200px;
+}
+.right05{
+    margin: 5px;
+    border: 1px black solid;
+    height: 200px;
+}
+.right06{
+    margin: 5px;
+    border: 1px black solid;
+    height: 200px;
+}
+
+
+
+
+.bottom{
+    margin: 10px 100px 0 100px;
+    height: 40px;
+    border-top: 1px gray solid;
+    font-size: 8px;
+}
+.bottom01{
+    float: right;
 }
