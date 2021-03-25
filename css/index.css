@@ -144,7 +144,7 @@ a{
 .text{
     margin: 30px 100px auto;
     border: 1px black solid;
-    height: 5000px;
+    height: 3500px;
 }
 
 
@@ -156,42 +156,183 @@ a{
     margin-top: 5px;
     border: 1px black solid;
     width: 700px;
-    height: 4800px;
+    height: 3400px;
 }
 .left01{
     margin: 5px 5px;
-    border: 1px black solid;
-    height: 700px;
+    height: 500px;
+}
+.left011{
+    height: 20px;
+    border-bottom: 1px gray solid;
+}
+.left011 h2{
+    float: left;
+}
+.left011 a{
+    float: left;
+    font-size: 8px;
+    color: blue;
+    margin-left: 5px;
+    line-height: 20px;
+}
+.left011 a:hover{
+    background-color: blue;
+    color: white;
+}
+.left012{
+    height: 650px;
+    width: 680px;
+    border: gray;
+}
+.left0121{
+    float: left;
+    width: 95px;
+    height: 200px;
+    font-size: 10px;
+    margin: 10px;
+    color: dodgerblue;
+}
+.left0121 p:hover{
+    color: honeydew;
+    background-color: dodgerblue;
 }
 .left02{
     margin: 5px 5px;
-    border: 1px black solid;
-    height: 100px;
+    height: 120px;
+}
+.left02 h2{
+    border-bottom: 1px gray solid;
+    margin-bottom: 20px;
 }
 .left03{
     margin: 5px 5px;
-    border: 1px black solid;
     height: 200px;
+}
+.left031{
+    width: 660px;
+    height: 180px;
+    border: 1px gray solid;
+    font-size: 13px;
+}
+.left0311{
+    float: left;
+    width: 560px;
+    height: 170px;
+}
+.left0311 a:hover{
+    color: gray;
+    background-color: #222;
+}
+.left0312{
+    float: left;
+}
+.left0312 img{
+    position: relative;
+    left: 10px;
+    top: 30px;
 }
 .left04{
     margin: 5px 5px;
-    border: 1px black solid;
-    height: 1300px;
+    height: 1200px;
+}
+.left041{
+    height: 20px;
+    border-bottom: 1px gray solid;
+}
+.left041 h2{
+    float: left;
+}
+.left041 a{
+    float: left;
+    font-size: 8px;
+    color: blue;
+    margin-left: 5px;
+    line-height: 20px;
+}
+.left041 a:hover{
+    background-color: blue;
+    color: white;
+}
+.left042{
+    float: left;
+    width: 300px;
+    height: 240px;
+    margin: 0 15px;
+}
+.left042a{
+    float: left;
+    width: 330px;
+    height: 160px;
+}
+.left0421{
+    float: left;
+}
+.left0422{
+    float: left;
+    margin: 5px;
+}
+.left0422 a{
+    color: dodgerblue;
+}
+.left0422 a:hover{
+    color: #ddd;
+    background-color: dodgerblue;
+}
+.left042b{
+    font-size: 8px;
 }
 .left05{
     margin: 5px 5px;
     border: 1px black solid;
-    height: 700px;
+    height: 100px;
 }
 .left06{
     margin: 5px 5px;
     border: 1px black solid;
-    height: 700px;
+    height: 560px;
+}
+.left061{
+    height: 20px;
+    border-bottom: 1px gray solid;
+}
+.left061 h2{
+    float: left;
+}
+.left061 a{
+    float: left;
+    font-size: 8px;
+    color: blue;
+    margin-left: 5px;
+    line-height: 20px;
+}
+.left061 a:hover{
+    background-color: blue;
+    color: white;
+}
+.left062{
+    height: 20px;
+    border-bottom: 1px gray solid;
+}
+.left062 h3{
+    float: left;
+    font-size: 8px;
+}
+.left062 a{
+    float: left;
+    font-size: 8px;
+    color: blue;
+    margin-left: 5px;
+    line-height: 20px;
+}
+.left062 a:hover{
+    background-color: blue;
+    color: white;
 }
 .left07{
     margin: 5px 5px;
     border: 1px black solid;
-    height: 700px;
+    height: 100px;
 }
 
 
@@ -203,39 +344,197 @@ a{
     float: right;
     margin-right: 5px;
     margin-top: 5px;
-    border: 1px black solid;
     width: 330px;
-    height: 1500px;
+    height: 2000px;
 }
 .right01{
     margin: 5px;
-    border: 1px black solid;
-    height: 200px;
+    height: 460px;
+}
+.right011{
+    height: 20px;
+    border-bottom: 1px gray solid;
+}
+.right011 h2{
+    float: left;
+}
+.right011 a{
+    float: left;
+    font-size: 8px;
+    color: blue;
+    margin-left: 5px;
+    line-height: 20px;
+}
+.right011 a:hover{
+    background-color: blue;
+    color: white;
+}
+.right012{
+    margin-top: 20px;
+    height: 50px;
+}
+.right012 span{
+    background-color: #eee;
+    font-size: 12px;
+    margin-right: 8px;
+    color: dodgerblue;
+}
+.right012 span:hover{
+    background-color: #ddd;
+}
+.right013{
+    margin-top: 20px;
+    height: 50px;
+}
+.right013 span{
+    background-color: #eee;
+    font-size: 12px;
+    margin-right: 8px;
+    color: dodgerblue;
+}
+.right013 span:hover{
+    background-color: #ddd;
+}
+.right014{
+    margin-top: 20px;
+    height: 50px;
+}
+.right014 span{
+    background-color: #eee;
+    font-size: 12px;
+    margin-right: 8px;
+    color: dodgerblue;
+}
+.right014 span:hover{
+    background-color: #ddd;
+}
+.right015{
+    margin-top: 20px;
+    height: 50px;
+}
+.right015 span{
+    background-color: #eee;
+    font-size: 12px;
+    margin-right: 8px;
+    color: dodgerblue;
+}
+.right015 span:hover{
+    background-color: #ddd;
+}
+.right016{
+    margin-top: 20px;
+    height: 50px;
+}
+.right016 span{
+    background-color: #eee;
+    font-size: 12px;
+    margin-right: 8px;
+    color: dodgerblue;
+}
+.right016 span:hover{
+    background-color: #ddd;
+}
+.right017{
+    margin-top: 20px;
+    height: 50px;
+}
+.right017 span{
+    background-color: #eee;
+    font-size: 12px;
+    margin-right: 8px;
+    color: dodgerblue;
+}
+.right017 span:hover{
+    background-color: #ddd;
 }
 .right02{
     margin: 5px;
-    border: 1px black solid;
-    height: 200px;
+    height: 490px;
+}
+.right02 h2{
+    border-bottom: 1px gray solid;
+    margin-bottom: 20px;
+}
+.right021{
+    width: 320px;
+    height: 45px;
+}
+.right021:hover{
+    background-color: gray;
+}
+.right0211{
+    float: left;
+    width: 260px;
 }
 .right03{
     margin: 5px;
-    border: 1px black solid;
+    height: 640px;
+}
+.right031{
+    height: 20px;
+    border-bottom: 1px gray solid;
+}
+.right031 h2{
+    float: left;
+}
+.right031 a{
+    float: left;
+    font-size: 8px;
+    color: blue;
+    margin-left: 5px;
+    line-height: 20px;
+}
+.right031 a:hover{
+    background-color: blue;
+    color: white;
+}
+.right032{
+    float: left;
+    width: 95px;
     height: 200px;
+    font-size: 10px;
+    margin: 5px;
+    color: dodgerblue;
+}
+.right032 p:hover{
+    color: honeydew;
+    background-color: dodgerblue;
 }
 .right04{
     margin: 5px;
-    border: 1px black solid;
-    height: 200px;
+    height: 100px;
+}
+.right04 h2{
+    border-bottom: 1px gray solid;
+    margin-bottom: 20px;
+}
+.right04 h2:hover{
+    color: white;
+    background-color: gray;
 }
 .right05{
     margin: 5px;
-    border: 1px black solid;
-    height: 200px;
+    height: 130px;
 }
-.right06{
+.right05 h2{
+    border-bottom: 1px gray solid;
+    margin-bottom: 20px;
+}
+.right05 h2:hover{
+    color: white;
+    background-color: gray;
+}
+.right052{
+    float: left;
+    width: 40px;
+    height: 70px;
+    font-size: 10px;
     margin: 5px;
-    border: 1px black solid;
-    height: 200px;
+    color: dodgerblue;
+}
+.right052 p:hover{
+    color: honeydew;
+    background-color: dodgerblue;
 }
 
 
