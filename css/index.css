@@ -143,8 +143,7 @@ a{
 
 .text{
     margin: 30px 100px auto;
-    border: 1px black solid;
-    height: 3500px;
+    height: 4000px;
 }
 
 
@@ -154,9 +153,8 @@ a{
     float: left;
     margin-left: 5px;
     margin-top: 5px;
-    border: 1px black solid;
     width: 700px;
-    height: 3400px;
+    height: 4000px;
 }
 .left01{
     margin: 5px 5px;
@@ -284,12 +282,31 @@ a{
 }
 .left05{
     margin: 5px 5px;
-    border: 1px black solid;
-    height: 100px;
+    height: 480px;
+}
+.left051{
+    height: 39px;
+    border-bottom: 1px gray solid;
+}
+.left051 h2{
+    float: left;
+}
+.left051 a{
+    float: left;
+    font-size: 8px;
+    color: blue;
+    margin-left: 5px;
+    line-height: 20px;
+}
+.left051 a:hover{
+    background-color: blue;
+    color: white;
+}
+.left052{
+    height: 180px;
 }
 .left06{
     margin: 5px 5px;
-    border: 1px black solid;
     height: 560px;
 }
 .left061{
@@ -331,8 +348,29 @@ a{
 }
 .left07{
     margin: 5px 5px;
-    border: 1px black solid;
-    height: 100px;
+    height: 800px;
+}
+.left072{
+    height: 150px;
+    border-bottom: 1px gray solid;
+}
+.left0721{
+    float: left;
+    width: 110px;
+    height: 200px;
+}
+.left0722{
+    float: left;
+    width: 550px;
+    height: 200px;
+}
+.left0722 a{
+    font-size: 8px;
+    color: blue;
+}
+.left0722 a:hover{
+    background-color: blue;
+    color: white;
 }
 
 
