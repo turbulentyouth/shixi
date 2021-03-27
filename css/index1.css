@@ -1,0 +1,210 @@
+.inner_c{
+    width: 1140px;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+
+
+
+
+/* header */
+.header{
+    height: 30px;
+    line-height: 30px;
+    text-align: left;
+    font-size: 14px;
+    width: 100%;
+    position: fixed;
+    background-color: rgba(5,5,5,0.5);
+    box-shadow: 2px 0px 2px 2px rgba(3,3,3,0.3);
+    z-index: 2;
+}
+.header .header_c h1{
+    height: 30px;
+    width: 40px;
+    padding-left: 4px;
+    float: left;
+    color: rgba(210,210,210,0.9);
+}
+
+.header .header_c .header_nav{
+    float: left;
+}
+.header .header_c .header_nav ul li{
+    float: left;
+    padding-left: 8px;
+    color: rgba(210,210,210,0.9);
+}
+.header .header_c .header_nav ul li a:hover{
+    color: white;
+    display:block;
+}
+.header .header_c .all_pro{
+    width: 100px;
+    float: right;
+    margin: 0 50px;
+    color: rgba(210,210,210,0.9);
+}
+.header .header_c .all_pro .app{
+    width: 0%;
+    position: absolute;
+    left: 0;
+    top: 68px;
+    background: #fff;
+    display: none;
+}
+.header .header_c .all_pro:hover .app{
+    display: inline;
+}
+.header .header_c .all_pro .app .pro_inner{
+    margin-top: -37px;
+    margin-left: 1024px; 
+}
+.header .header_c .login{
+    float: right;
+    margin-right: 15px;
+    color: rgba(210,210,210,0.9);
+}
+.header .header_c .login a:hover{
+    color: white;
+    display:block;
+}
+
+
+
+
+
+/* banner开始 */
+.banner{
+    padding-top: 30px;
+    height: 80px;
+    position: relative;
+    top: 30px;
+    background-color: blanchedalmond;
+    border-bottom: 1px solid rgba(210,210,210,0.9);
+    z-index: 1;
+}
+.banner .banner_c{
+    width: 1140px;
+    margin: 0 auto;
+}
+.banner .banner_c a{
+    position: relative;
+    top: 10px;
+    left: 40px;
+}
+.banner .banner_c input{
+    position: relative;
+    top: -10px;
+    left: 40px;
+    width: 450px;
+    height: 40px;
+}
+.banner2{
+    margin-top: 30px;
+    height: 40px;
+    background-color: bisque;
+}
+.banner2_c{
+    margin-left: 100px;
+    float: left;
+    padding-left: 8px;
+    color: rgba(0,0,0,0.9);
+    line-height: 40px;
+}
+.banner2_c ul li{
+    float: left;
+    margin-right: 10px;
+}
+.banner2_cc img{
+    float: left;
+    position: relative;
+    top:10px;
+    margin-left: 8px;
+}
+.banner2_cc a{
+    float: left;
+    background-color: bisque;
+    display: block;
+}
+.banner2_cc a:hover{
+    color: white;
+    background-color: black;
+    display: block;
+}
+
+
+
+
+
+.text{
+    margin: 30px 100px auto;
+    height: 4000px;
+}
+
+
+
+.left{
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 700px;
+    height: 4000px;
+}
+.left01{
+    margin: 5px 5px;
+    height: 300px;
+}
+.left011{
+    height: 30px;
+    font-size: 20px;
+}
+.left012{
+    height: 200px;
+}
+.left0121{
+    float: left;
+    height: 180px;
+}
+.left0122{
+    float: left;
+    margin-left: 20px;
+    height: 180px;
+    font-size: 10px;
+    line-height: 20px;
+}
+.left0122 a{
+    color: dodgerblue;
+}
+.left0122 a:hover{
+    color: floralwhite;
+    background-color: dodgerblue;
+}
+.left02{
+    margin: 5px 5px;
+    height: 800px;
+}
+.left021{
+    height: 30px;
+    font-size: 20px;
+    color: green;
+}
+.left022{
+    height: 600px;
+}
+.left022 p{
+    margin: 20px 0;
+    line-height: 20px;
+    text-indent: 2em;
+}
+.left022 a{
+    color: dodgerblue;
+}
+.left022 a:hover{
+    color: floralwhite;
+    background-color: dodgerblue;
+}
